@@ -1,6 +1,6 @@
 public class FibonacciSeries {
     public static void main(String[] args) {
-        int n = 10; 
+        int n = 20; 
         int first = 0, second = 1;
 
         System.out.println("Fibonacci Series up to " + n + " terms:");
