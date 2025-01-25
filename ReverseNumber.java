@@ -12,10 +12,10 @@ public class ReverseNumber {
             number /= 10;  
         }
 
-        // Display the reversed number
+    
         System.out.println("Reversed number: " + reversedNumber);
         
-        // Close the scanner
+    
         scanner.close();
     }
 }
